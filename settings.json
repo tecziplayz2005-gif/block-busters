@@ -1,12 +1,12 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Infinity_Bots",
+    "username": "Botuna",
     "password": "21march2002",
     "type": "offline"
   },
   "server": {
-    "ip": "veloxminecraft.play.hosting",
+    "ip": "blockbashsmp.play.hosting",
     "port": 0,
     "version": "1.21.4",
     "try-creative": false
